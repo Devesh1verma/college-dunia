@@ -1,0 +1,9004 @@
+[
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false ,
+    "logo":"../src/components/logo/IIT_Bombay_logo.png"   
+    
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false
+  },
+  {
+    "name": "IIT america 2",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 2,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 2",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 2,
+    "featured": false
+  },
+  {
+    "name": "Parul University 2",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 100,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 2",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 3,
+    "featured": false
+  },
+  {
+    "name": "IIT america 3",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 3,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 3",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 3,
+    "featured": false
+  },
+  {
+    "name": "Parul University 3",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 101,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 3",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 4,
+    "featured": false
+  },
+  {
+    "name": "IIT america 4",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 4,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 4",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 4,
+    "featured": false
+  },
+  {
+    "name": "Parul University 4",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 102,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 4",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 5,
+    "featured": false
+  },
+  {
+    "name": "IIT america 5",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 5,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 5",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 5,
+    "featured": false
+  },
+  {
+    "name": "Parul University 5",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 103,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 5",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 6,
+    "featured": false
+  },
+  {
+    "name": "IIT america 6",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 6,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 6",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 6,
+    "featured": false
+  },
+  {
+    "name": "Parul University 6",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 104,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 6",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 7,
+    "featured": false
+  },
+  {
+    "name": "IIT america 7",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 7,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 7",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 7,
+    "featured": false
+  },
+  {
+    "name": "Parul University 7",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 105,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 7",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 8,
+    "featured": false
+  },
+  {
+    "name": "IIT america 8",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 8,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 8",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 8,
+    "featured": false
+  },
+  {
+    "name": "Parul University 8",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 106,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 8",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 9,
+    "featured": false
+  },
+  {
+    "name": "IIT america 9",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 9,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 9",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 9,
+    "featured": false
+  },
+  {
+    "name": "Parul University 9",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 107,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 9",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 10,
+    "featured": false
+  },
+  {
+    "name": "IIT america 10",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 10,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 10",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 10,
+    "featured": false
+  },
+  {
+    "name": "Parul University 10",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 108,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 10",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 11,
+    "featured": false
+  },
+  {
+    "name": "IIT america 11",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 11,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 11",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 11,
+    "featured": false
+  },
+  {
+    "name": "Parul University 11",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 109,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 11",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 12,
+    "featured": false
+  },
+  {
+    "name": "IIT america 12",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 12,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 12",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 12,
+    "featured": false
+  },
+  {
+    "name": "Parul University 12",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 110,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 12",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 13,
+    "featured": false
+  },
+  {
+    "name": "IIT america 13",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 13,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 13",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 13,
+    "featured": false
+  },
+  {
+    "name": "Parul University 13",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 111,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 13",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 14,
+    "featured": false
+  },
+  {
+    "name": "IIT america 14",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 14,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 14",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 14,
+    "featured": false
+  },
+  {
+    "name": "Parul University 14",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 112,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 14",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 15,
+    "featured": false
+  },
+  {
+    "name": "IIT america 15",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 15,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 15",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 15,
+    "featured": false
+  },
+  {
+    "name": "Parul University 15",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 113,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 15",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 16,
+    "featured": false
+  },
+  {
+    "name": "IIT america 16",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 16,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 16",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 16,
+    "featured": false
+  },
+  {
+    "name": "Parul University 16",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 114,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 16",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 17,
+    "featured": false
+  },
+  {
+    "name": "IIT america 17",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 17,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 17",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 17,
+    "featured": false
+  },
+  {
+    "name": "Parul University 17",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 115,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 17",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 18,
+    "featured": false
+  },
+  {
+    "name": "IIT america 18",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 18,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 18",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 18,
+    "featured": false
+  },
+  {
+    "name": "Parul University 18",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 116,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 18",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 19,
+    "featured": false
+  },
+  {
+    "name": "IIT america 19",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 19,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 19",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 19,
+    "featured": false
+  },
+  {
+    "name": "Parul University 19",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 117,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 19",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 20,
+    "featured": false
+  },
+  {
+    "name": "IIT america 20",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 20,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 20",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 20,
+    "featured": false
+  },
+  {
+    "name": "Parul University 20",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 118,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 20",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 21,
+    "featured": false
+  },
+  {
+    "name": "IIT america 21",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 21,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 21",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 21,
+    "featured": false
+  },
+  {
+    "name": "Parul University 21",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 119,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 21",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 22,
+    "featured": false
+  },
+  {
+    "name": "IIT america 22",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 22,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 22",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 22,
+    "featured": false
+  },
+  {
+    "name": "Parul University 22",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 120,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 22",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 23,
+    "featured": false
+  },
+  {
+    "name": "IIT america 23",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 23,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 23",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 23,
+    "featured": false
+  },
+  {
+    "name": "Parul University 23",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 121,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 23",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 24,
+    "featured": false
+  },
+  {
+    "name": "IIT america 24",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 24,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 24",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 24,
+    "featured": false
+  },
+  {
+    "name": "Parul University 24",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 122,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 24",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 25,
+    "featured": false
+  },
+  {
+    "name": "IIT america 25",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 25,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 25",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 25,
+    "featured": false
+  },
+  {
+    "name": "Parul University 25",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 123,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 25",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 26,
+    "featured": false
+  },
+  {
+    "name": "IIT america 26",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 26,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 26",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 26,
+    "featured": false
+  },
+  {
+    "name": "Parul University 26",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 124,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 26",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 27,
+    "featured": false
+  },
+  {
+    "name": "IIT america 27",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 27,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 27",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 27,
+    "featured": false
+  },
+  {
+    "name": "Parul University 27",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 125,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 27",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 28,
+    "featured": false
+  },
+  {
+    "name": "IIT america 28",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 28,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 28",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 28,
+    "featured": false
+  },
+  {
+    "name": "Parul University 28",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 126,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 28",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 29,
+    "featured": false
+  },
+  {
+    "name": "IIT america 29",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 29,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 29",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 29,
+    "featured": false
+  },
+  {
+    "name": "Parul University 29",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 127,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 29",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 30,
+    "featured": false
+  },
+  {
+    "name": "IIT america 30",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 30,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 30",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 30,
+    "featured": false
+  },
+  {
+    "name": "Parul University 30",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 128,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 30",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 31,
+    "featured": false
+  },
+  {
+    "name": "IIT america 31",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 31,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 31",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 31,
+    "featured": false
+  },
+  {
+    "name": "Parul University 31",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 129,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 31",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 32,
+    "featured": false
+  },
+  {
+    "name": "IIT america 32",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 32,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 32",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 32,
+    "featured": false
+  },
+  {
+    "name": "Parul University 32",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 130,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 32",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 33,
+    "featured": false
+  },
+  {
+    "name": "IIT america 33",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 33,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 33",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 33,
+    "featured": false
+  },
+  {
+    "name": "Parul University 33",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 131,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 33",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 34,
+    "featured": false
+  },
+  {
+    "name": "IIT america 34",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 34,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 34",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 34,
+    "featured": false
+  },
+  {
+    "name": "Parul University 34",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 132,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 34",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 35,
+    "featured": false
+  },
+  {
+    "name": "IIT america 35",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 35,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 35",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 35,
+    "featured": false
+  },
+  {
+    "name": "Parul University 35",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 133,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 35",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 36,
+    "featured": false
+  },
+  {
+    "name": "IIT america 36",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 36,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 36",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 36,
+    "featured": false
+  },
+  {
+    "name": "Parul University 36",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 134,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 36",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 37,
+    "featured": false
+  },
+  {
+    "name": "IIT america 37",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 37,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 37",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 37,
+    "featured": false
+  },
+  {
+    "name": "Parul University 37",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 135,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 37",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 38,
+    "featured": false
+  },
+  {
+    "name": "IIT america 38",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 38,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 38",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 38,
+    "featured": false
+  },
+  {
+    "name": "Parul University 38",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 136,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 38",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 39,
+    "featured": false
+  },
+  {
+    "name": "IIT america 39",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 39,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 39",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 39,
+    "featured": false
+  },
+  {
+    "name": "Parul University 39",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 137,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 39",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 40,
+    "featured": false
+  },
+  {
+    "name": "IIT america 40",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 40,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 40",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 40,
+    "featured": false
+  },
+  {
+    "name": "Parul University 40",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 138,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 40",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 41,
+    "featured": false
+  },
+  {
+    "name": "IIT america 41",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 41,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 41",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 41,
+    "featured": false
+  },
+  {
+    "name": "Parul University 41",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 139,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 41",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 42,
+    "featured": false
+  },
+  {
+    "name": "IIT america 42",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 42,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 42",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 42,
+    "featured": false
+  },
+  {
+    "name": "Parul University 42",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 140,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 42",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 43,
+    "featured": false
+  },
+  {
+    "name": "IIT america 43",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 43,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 43",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 43,
+    "featured": false
+  },
+  {
+    "name": "Parul University 43",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 141,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 43",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 44,
+    "featured": false
+  },
+  {
+    "name": "IIT america 44",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 44,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 44",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 44,
+    "featured": false
+  },
+  {
+    "name": "Parul University 44",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 142,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 44",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 45,
+    "featured": false
+  },
+  {
+    "name": "IIT america 45",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 45,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 45",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 45,
+    "featured": false
+  },
+  {
+    "name": "Parul University 45",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 143,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 45",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 46,
+    "featured": false
+  },
+  {
+    "name": "IIT america 46",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 46,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 46",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 46,
+    "featured": false
+  },
+  {
+    "name": "Parul University 46",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 144,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 46",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 47,
+    "featured": false
+  },
+  {
+    "name": "IIT america 47",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 47,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 47",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 47,
+    "featured": false
+  },
+  {
+    "name": "Parul University 47",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 145,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 47",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 48,
+    "featured": false
+  },
+  {
+    "name": "IIT america 48",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 48,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 48",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 48,
+    "featured": false
+  },
+  {
+    "name": "Parul University 48",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 146,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 48",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 49,
+    "featured": false
+  },
+  {
+    "name": "IIT america 49",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 49,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 49",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 49,
+    "featured": false
+  },
+  {
+    "name": "Parul University 49",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 147,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 49",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 50,
+    "featured": false
+  },
+  {
+    "name": "IIT america 50",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 50,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 50",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 50,
+    "featured": false
+  },
+  {
+    "name": "Parul University 50",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 148,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 50",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 51,
+    "featured": false
+  },
+  {
+    "name": "IIT america 51",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 51,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 51",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 51,
+    "featured": false
+  },
+  {
+    "name": "Parul University 51",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 149,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 51",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 52,
+    "featured": false
+  },
+  {
+    "name": "IIT america 52",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 52,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 52",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 52,
+    "featured": false
+  },
+  {
+    "name": "Parul University 52",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 150,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 52",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 53,
+    "featured": false
+  },
+  {
+    "name": "IIT america 53",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 53,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 53",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 53,
+    "featured": false
+  },
+  {
+    "name": "Parul University 53",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 151,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 53",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 54,
+    "featured": false
+  },
+  {
+    "name": "IIT america 54",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 54,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 54",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 54,
+    "featured": false
+  },
+  {
+    "name": "Parul University 54",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 152,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 54",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 55,
+    "featured": false
+  },
+  {
+    "name": "IIT america 55",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 55,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 55",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 55,
+    "featured": false
+  },
+  {
+    "name": "Parul University 55",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 153,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 55",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 56,
+    "featured": false
+  },
+  {
+    "name": "IIT america 56",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 56,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 56",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 56,
+    "featured": false
+  },
+  {
+    "name": "Parul University 56",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 154,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 56",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 57,
+    "featured": false
+  },
+  {
+    "name": "IIT america 57",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 57,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 57",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 57,
+    "featured": false
+  },
+  {
+    "name": "Parul University 57",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 155,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 57",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 58,
+    "featured": false
+  },
+  {
+    "name": "IIT america 58",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 58,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 58",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 58,
+    "featured": false
+  },
+  {
+    "name": "Parul University 58",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 156,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 58",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 59,
+    "featured": false
+  },
+  {
+    "name": "IIT america 59",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 59,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 59",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 59,
+    "featured": false
+  },
+  {
+    "name": "Parul University 59",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 157,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 59",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 60,
+    "featured": false
+  },
+  {
+    "name": "IIT america 60",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 60,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 60",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 60,
+    "featured": false
+  },
+  {
+    "name": "Parul University 60",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 158,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 60",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 61,
+    "featured": false
+  },
+  {
+    "name": "IIT america 61",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 61,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 61",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 61,
+    "featured": false
+  },
+  {
+    "name": "Parul University 61",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 159,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 61",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 62,
+    "featured": false
+  },
+  {
+    "name": "IIT america 62",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 62,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 62",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 62,
+    "featured": false
+  },
+  {
+    "name": "Parul University 62",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 160,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 62",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 63,
+    "featured": false
+  },
+  {
+    "name": "IIT america 63",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 63,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 63",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 63,
+    "featured": false
+  },
+  {
+    "name": "Parul University 63",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 161,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 63",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 64,
+    "featured": false
+  },
+  {
+    "name": "IIT america 64",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 64,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 64",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 64,
+    "featured": false
+  },
+  {
+    "name": "Parul University 64",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 162,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 64",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 65,
+    "featured": false
+  },
+  {
+    "name": "IIT america 65",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 65,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 65",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 65,
+    "featured": false
+  },
+  {
+    "name": "Parul University 65",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 163,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 65",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 66,
+    "featured": false
+  },
+  {
+    "name": "IIT america 66",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 66,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 66",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 66,
+    "featured": false
+  },
+  {
+    "name": "Parul University 66",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 164,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 66",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 67,
+    "featured": false
+  },
+  {
+    "name": "IIT america 67",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 67,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 67",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 67,
+    "featured": false
+  },
+  {
+    "name": "Parul University 67",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 165,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 67",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 68,
+    "featured": false
+  },
+  {
+    "name": "IIT america 68",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 68,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 68",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 68,
+    "featured": false
+  },
+  {
+    "name": "Parul University 68",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 166,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 68",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 69,
+    "featured": false
+  },
+  {
+    "name": "IIT america 69",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 69,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 69",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 69,
+    "featured": false
+  },
+  {
+    "name": "Parul University 69",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 167,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 69",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 70,
+    "featured": false
+  },
+  {
+    "name": "IIT america 70",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 70,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 70",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 70,
+    "featured": false
+  },
+  {
+    "name": "Parul University 70",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 168,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 70",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 71,
+    "featured": false
+  },
+  {
+    "name": "IIT america 71",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 71,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 71",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 71,
+    "featured": false
+  },
+  {
+    "name": "Parul University 71",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 169,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 71",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 72,
+    "featured": false
+  },
+  {
+    "name": "IIT america 72",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 72,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 72",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 72,
+    "featured": false
+  },
+  {
+    "name": "Parul University 72",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 170,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 72",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 73,
+    "featured": false
+  },
+  {
+    "name": "IIT america 73",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 73,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 73",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 73,
+    "featured": false
+  },
+  {
+    "name": "Parul University 73",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 171,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 73",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 74,
+    "featured": false
+  },
+  {
+    "name": "IIT america 74",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 74,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 74",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 74,
+    "featured": false
+  },
+  {
+    "name": "Parul University 74",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 172,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 74",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 75,
+    "featured": false
+  },
+  {
+    "name": "IIT america 75",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 75,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 75",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 75,
+    "featured": false
+  },
+  {
+    "name": "Parul University 75",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 173,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 75",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 76,
+    "featured": false
+  },
+  {
+    "name": "IIT america 76",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 76,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 76",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 76,
+    "featured": false
+  },
+  {
+    "name": "Parul University 76",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 174,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 76",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 77,
+    "featured": false
+  },
+  {
+    "name": "IIT america 77",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 77,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 77",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 77,
+    "featured": false
+  },
+  {
+    "name": "Parul University 77",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 175,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 77",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 78,
+    "featured": false
+  },
+  {
+    "name": "IIT america 78",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 78,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 78",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 78,
+    "featured": false
+  },
+  {
+    "name": "Parul University 78",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 176,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 78",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 79,
+    "featured": false
+  },
+  {
+    "name": "IIT america 79",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 79,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 79",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 79,
+    "featured": false
+  },
+  {
+    "name": "Parul University 79",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 177,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 79",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 80,
+    "featured": false
+  },
+  {
+    "name": "IIT america 80",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 80,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 80",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 80,
+    "featured": false
+  },
+  {
+    "name": "Parul University 80",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 178,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 80",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 81,
+    "featured": false
+  },
+  {
+    "name": "IIT america 81",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 81,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 81",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 81,
+    "featured": false
+  },
+  {
+    "name": "Parul University 81",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 179,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 81",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 82,
+    "featured": false
+  },
+  {
+    "name": "IIT america 82",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 82,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 82",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 82,
+    "featured": false
+  },
+  {
+    "name": "Parul University 82",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 180,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 82",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 83,
+    "featured": false
+  },
+  {
+    "name": "IIT america 83",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 83,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 83",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 83,
+    "featured": false
+  },
+  {
+    "name": "Parul University 83",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 181,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 83",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 84,
+    "featured": false
+  },
+  {
+    "name": "IIT america 84",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 84,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 84",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 84,
+    "featured": false
+  },
+  {
+    "name": "Parul University 84",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 182,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 84",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 85,
+    "featured": false
+  },
+  {
+    "name": "IIT america 85",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 85,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 85",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 85,
+    "featured": false
+  },
+  {
+    "name": "Parul University 85",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 183,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 85",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 86,
+    "featured": false
+  },
+  {
+    "name": "IIT america 86",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 86,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 86",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 86,
+    "featured": false
+  },
+  {
+    "name": "Parul University 86",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 184,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 86",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 87,
+    "featured": false
+  },
+  {
+    "name": "IIT america 87",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 87,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 87",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 87,
+    "featured": false
+  },
+  {
+    "name": "Parul University 87",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 185,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 87",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 88,
+    "featured": false
+  },
+  {
+    "name": "IIT america 88",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 88,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 88",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 88,
+    "featured": false
+  },
+  {
+    "name": "Parul University 88",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 186,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 88",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 89,
+    "featured": false
+  },
+  {
+    "name": "IIT america 89",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 89,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 89",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 89,
+    "featured": false
+  },
+  {
+    "name": "Parul University 89",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 187,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 89",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 90,
+    "featured": false
+  },
+  {
+    "name": "IIT america 90",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 90,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 90",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 90,
+    "featured": false
+  },
+  {
+    "name": "Parul University 90",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 188,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 90",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 91,
+    "featured": false
+  },
+  {
+    "name": "IIT america 91",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 91,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 91",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 91,
+    "featured": false
+  },
+  {
+    "name": "Parul University 91",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 189,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 91",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 92,
+    "featured": false
+  },
+  {
+    "name": "IIT america 92",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 92,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 92",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 92,
+    "featured": false
+  },
+  {
+    "name": "Parul University 92",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 190,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 92",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 93,
+    "featured": false
+  },
+  {
+    "name": "IIT america 93",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 93,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 93",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 93,
+    "featured": false
+  },
+  {
+    "name": "Parul University 93",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 191,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 93",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 94,
+    "featured": false
+  },
+  {
+    "name": "IIT america 94",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 94,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 94",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 94,
+    "featured": false
+  },
+  {
+    "name": "Parul University 94",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 192,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 94",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 95,
+    "featured": false
+  },
+  {
+    "name": "IIT america 95",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 95,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 95",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 95,
+    "featured": false
+  },
+  {
+    "name": "Parul University 95",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 193,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 95",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 96,
+    "featured": false
+  },
+  {
+    "name": "IIT america 96",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 96,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 96",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 96,
+    "featured": false
+  },
+  {
+    "name": "Parul University 96",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 194,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 96",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 97,
+    "featured": false
+  },
+  {
+    "name": "IIT america 97",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 97,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 97",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 97,
+    "featured": false
+  },
+  {
+    "name": "Parul University 97",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 195,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 97",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 98,
+    "featured": false
+  },
+  {
+    "name": "IIT america 98",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 98,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 98",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 98,
+    "featured": false
+  },
+  {
+    "name": "Parul University 98",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 196,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 98",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 99,
+    "featured": false
+  },
+  {
+    "name": "IIT america 99",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 99,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 99",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 99,
+    "featured": false
+  },
+  {
+    "name": "Parul University 99",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 197,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 99",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 100,
+    "featured": false
+  },
+  {
+    "name": "IIT america 100",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 100,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 100",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 100,
+    "featured": false
+  },
+  {
+    "name": "Parul University 100",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 198,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 100",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 101,
+    "featured": false
+  },
+  {
+    "name": "IIT america 101",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 101,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 101",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 101,
+    "featured": false
+  },
+  {
+    "name": "Parul University 101",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 199,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 101",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 102,
+    "featured": false
+  },
+  {
+    "name": "IIT america 102",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 102,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 102",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 102,
+    "featured": false
+  },
+  {
+    "name": "Parul University 102",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 200,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 102",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 103,
+    "featured": false
+  },
+  {
+    "name": "IIT america 103",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 103,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 103",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 103,
+    "featured": false
+  },
+  {
+    "name": "Parul University 103",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 201,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 103",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 104,
+    "featured": false
+  },
+  {
+    "name": "IIT america 104",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 104,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 104",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 104,
+    "featured": false
+  },
+  {
+    "name": "Parul University 104",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 202,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 104",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 105,
+    "featured": false
+  },
+  {
+    "name": "IIT america 105",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 105,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 105",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 105,
+    "featured": false
+  },
+  {
+    "name": "Parul University 105",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 203,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 105",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 106,
+    "featured": false
+  },
+  {
+    "name": "IIT america 106",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 106,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 106",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 106,
+    "featured": false
+  },
+  {
+    "name": "Parul University 106",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 204,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 106",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 107,
+    "featured": false
+  },
+  {
+    "name": "IIT america 107",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 107,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 107",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 107,
+    "featured": false
+  },
+  {
+    "name": "Parul University 107",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 205,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 107",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 108,
+    "featured": false
+  },
+  {
+    "name": "IIT america 108",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 108,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 108",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 108,
+    "featured": false
+  },
+  {
+    "name": "Parul University 108",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 206,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 108",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 109,
+    "featured": false
+  },
+  {
+    "name": "IIT america 109",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 109,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 109",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 109,
+    "featured": false
+  },
+  {
+    "name": "Parul University 109",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 207,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 109",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 110,
+    "featured": false
+  },
+  {
+    "name": "IIT america 110",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 110,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 110",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 110,
+    "featured": false
+  },
+  {
+    "name": "Parul University 110",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 208,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 110",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 111,
+    "featured": false
+  },
+  {
+    "name": "IIT america 111",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 111,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 111",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 111,
+    "featured": false
+  },
+  {
+    "name": "Parul University 111",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 209,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 111",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 112,
+    "featured": false
+  },
+  {
+    "name": "IIT america 112",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 112,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 112",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 112,
+    "featured": false
+  },
+  {
+    "name": "Parul University 112",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 210,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 112",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 113,
+    "featured": false
+  },
+  {
+    "name": "IIT america 113",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 113,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 113",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 113,
+    "featured": false
+  },
+  {
+    "name": "Parul University 113",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 211,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 113",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 114,
+    "featured": false
+  },
+  {
+    "name": "IIT america 114",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 114,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 114",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 114,
+    "featured": false
+  },
+  {
+    "name": "Parul University 114",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 212,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 114",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 115,
+    "featured": false
+  },
+  {
+    "name": "IIT america 115",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 115,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 115",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 115,
+    "featured": false
+  },
+  {
+    "name": "Parul University 115",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 213,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 115",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 116,
+    "featured": false
+  },
+  {
+    "name": "IIT america 116",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 116,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 116",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 116,
+    "featured": false
+  },
+  {
+    "name": "Parul University 116",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 214,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 116",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 117,
+    "featured": false
+  },
+  {
+    "name": "IIT america 117",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 117,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 117",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 117,
+    "featured": false
+  },
+  {
+    "name": "Parul University 117",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 215,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 117",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 118,
+    "featured": false
+  },
+  {
+    "name": "IIT america 118",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 118,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 118",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 118,
+    "featured": false
+  },
+  {
+    "name": "Parul University 118",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 216,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 118",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 119,
+    "featured": false
+  },
+  {
+    "name": "IIT america 119",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 119,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 119",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 119,
+    "featured": false
+  },
+  {
+    "name": "Parul University 119",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 217,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 119",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 120,
+    "featured": false
+  },
+  {
+    "name": "IIT america 120",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 120,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 120",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 120,
+    "featured": false
+  },
+  {
+    "name": "Parul University 120",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 218,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 120",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 121,
+    "featured": false
+  },
+  {
+    "name": "IIT america 121",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 121,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 121",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 121,
+    "featured": false
+  },
+  {
+    "name": "Parul University 121",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 219,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 121",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 122,
+    "featured": false
+  },
+  {
+    "name": "IIT america 122",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 122,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 122",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 122,
+    "featured": false
+  },
+  {
+    "name": "Parul University 122",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 220,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 122",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 123,
+    "featured": false
+  },
+  {
+    "name": "IIT america 123",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 123,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 123",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 123,
+    "featured": false
+  },
+  {
+    "name": "Parul University 123",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 221,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 123",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 124,
+    "featured": false
+  },
+  {
+    "name": "IIT america 124",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 124,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 124",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 124,
+    "featured": false
+  },
+  {
+    "name": "Parul University 124",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 222,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 124",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 125,
+    "featured": false
+  },
+  {
+    "name": "IIT america 125",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 125,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 125",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 125,
+    "featured": false
+  },
+  {
+    "name": "Parul University 125",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 223,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 125",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 126,
+    "featured": false
+  },
+  {
+    "name": "IIT america 126",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 126,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 126",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 126,
+    "featured": false
+  },
+  {
+    "name": "Parul University 126",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 224,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 126",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 127,
+    "featured": false
+  },
+  {
+    "name": "IIT america 127",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 127,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 127",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 127,
+    "featured": false
+  },
+  {
+    "name": "Parul University 127",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 225,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 127",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 128,
+    "featured": false
+  },
+  {
+    "name": "IIT america 128",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 128,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 128",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 128,
+    "featured": false
+  },
+  {
+    "name": "Parul University 128",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 226,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 128",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 129,
+    "featured": false
+  },
+  {
+    "name": "IIT america 129",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 129,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 129",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 129,
+    "featured": false
+  },
+  {
+    "name": "Parul University 129",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 227,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 129",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 130,
+    "featured": false
+  },
+  {
+    "name": "IIT america 130",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 130,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 130",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 130,
+    "featured": false
+  },
+  {
+    "name": "Parul University 130",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 228,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 130",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 131,
+    "featured": false
+  },
+  {
+    "name": "IIT america 131",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 131,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 131",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 131,
+    "featured": false
+  },
+  {
+    "name": "Parul University 131",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 229,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 131",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 132,
+    "featured": false
+  },
+  {
+    "name": "IIT america 132",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 132,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 132",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 132,
+    "featured": false
+  },
+  {
+    "name": "Parul University 132",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 230,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 132",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 133,
+    "featured": false
+  },
+  {
+    "name": "IIT america 133",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 133,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 133",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 133,
+    "featured": false
+  },
+  {
+    "name": "Parul University 133",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 231,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 133",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 134,
+    "featured": false
+  },
+  {
+    "name": "IIT america 134",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 134,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 134",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 134,
+    "featured": false
+  },
+  {
+    "name": "Parul University 134",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 232,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 134",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 135,
+    "featured": false
+  },
+  {
+    "name": "IIT america 135",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 135,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 135",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 135,
+    "featured": false
+  },
+  {
+    "name": "Parul University 135",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 233,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 135",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 136,
+    "featured": false
+  },
+  {
+    "name": "IIT america 136",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 136,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 136",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 136,
+    "featured": false
+  },
+  {
+    "name": "Parul University 136",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 234,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 136",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 137,
+    "featured": false
+  },
+  {
+    "name": "IIT america 137",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 137,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 137",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 137,
+    "featured": false
+  },
+  {
+    "name": "Parul University 137",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 235,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 137",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 138,
+    "featured": false
+  },
+  {
+    "name": "IIT america 138",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 138,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 138",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 138,
+    "featured": false
+  },
+  {
+    "name": "Parul University 138",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 236,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 138",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 139,
+    "featured": false
+  },
+  {
+    "name": "IIT america 139",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 139,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 139",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 139,
+    "featured": false
+  },
+  {
+    "name": "Parul University 139",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 237,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 139",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 140,
+    "featured": false
+  },
+  {
+    "name": "IIT america 140",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 140,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 140",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 140,
+    "featured": false
+  },
+  {
+    "name": "Parul University 140",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 238,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 140",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 141,
+    "featured": false
+  },
+  {
+    "name": "IIT america 141",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 141,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 141",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 141,
+    "featured": false
+  },
+  {
+    "name": "Parul University 141",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 239,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 141",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 142,
+    "featured": false
+  },
+  {
+    "name": "IIT america 142",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 142,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 142",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 142,
+    "featured": false
+  },
+  {
+    "name": "Parul University 142",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 240,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 142",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 143,
+    "featured": false
+  },
+  {
+    "name": "IIT america 143",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 143,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 143",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 143,
+    "featured": false
+  },
+  {
+    "name": "Parul University 143",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 241,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 143",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 144,
+    "featured": false
+  },
+  {
+    "name": "IIT america 144",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 144,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 144",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 144,
+    "featured": false
+  },
+  {
+    "name": "Parul University 144",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 242,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 144",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 145,
+    "featured": false
+  },
+  {
+    "name": "IIT america 145",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 145,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 145",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 145,
+    "featured": false
+  },
+  {
+    "name": "Parul University 145",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 243,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 145",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 146,
+    "featured": false
+  },
+  {
+    "name": "IIT america 146",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 146,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 146",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 146,
+    "featured": false
+  },
+  {
+    "name": "Parul University 146",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 244,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 146",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 147,
+    "featured": false
+  },
+  {
+    "name": "IIT america 147",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 147,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 147",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 147,
+    "featured": false
+  },
+  {
+    "name": "Parul University 147",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 245,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 147",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 148,
+    "featured": false
+  },
+  {
+    "name": "IIT america 148",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 148,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 148",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 148,
+    "featured": false
+  },
+  {
+    "name": "Parul University 148",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 246,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 148",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 149,
+    "featured": false
+  },
+  {
+    "name": "IIT america 149",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 149,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 149",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 149,
+    "featured": false
+  },
+  {
+    "name": "Parul University 149",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 247,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 149",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 150,
+    "featured": false
+  },
+  {
+    "name": "IIT america 150",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 150,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 150",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 150,
+    "featured": false
+  },
+  {
+    "name": "Parul University 150",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 248,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 150",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 151,
+    "featured": false
+  },
+  {
+    "name": "IIT america 151",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 151,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 151",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 151,
+    "featured": false
+  },
+  {
+    "name": "Parul University 151",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 249,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 151",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 152,
+    "featured": false
+  },
+  {
+    "name": "IIT america 152",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 152,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 152",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 152,
+    "featured": false
+  },
+  {
+    "name": "Parul University 152",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 250,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 152",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 153,
+    "featured": false
+  },
+  {
+    "name": "IIT america 153",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 153,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 153",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 153,
+    "featured": false
+  },
+  {
+    "name": "Parul University 153",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 251,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 153",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 154,
+    "featured": false
+  },
+  {
+    "name": "IIT america 154",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 154,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 154",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 154,
+    "featured": false
+  },
+  {
+    "name": "Parul University 154",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 252,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 154",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 155,
+    "featured": false
+  },
+  {
+    "name": "IIT america 155",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 155,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 155",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 155,
+    "featured": false
+  },
+  {
+    "name": "Parul University 155",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 253,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 155",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 156,
+    "featured": false
+  },
+  {
+    "name": "IIT america 156",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 156,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 156",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 156,
+    "featured": false
+  },
+  {
+    "name": "Parul University 156",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 254,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 156",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 157,
+    "featured": false
+  },
+  {
+    "name": "IIT america 157",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 157,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 157",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 157,
+    "featured": false
+  },
+  {
+    "name": "Parul University 157",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 255,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 157",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 158,
+    "featured": false
+  },
+  {
+    "name": "IIT america 158",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 158,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 158",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 158,
+    "featured": false
+  },
+  {
+    "name": "Parul University 158",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 256,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 158",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 159,
+    "featured": false
+  },
+  {
+    "name": "IIT america 159",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 159,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 159",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 159,
+    "featured": false
+  },
+  {
+    "name": "Parul University 159",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 257,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 159",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 160,
+    "featured": false
+  },
+  {
+    "name": "IIT america 160",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 160,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 160",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 160,
+    "featured": false
+  },
+  {
+    "name": "Parul University 160",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 258,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 160",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 161,
+    "featured": false
+  },
+  {
+    "name": "IIT america 161",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 161,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 161",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 161,
+    "featured": false
+  },
+  {
+    "name": "Parul University 161",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 259,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 161",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 162,
+    "featured": false
+  },
+  {
+    "name": "IIT america 162",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 162,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 162",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 162,
+    "featured": false
+  },
+  {
+    "name": "Parul University 162",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 260,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 162",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 163,
+    "featured": false
+  },
+  {
+    "name": "IIT america 163",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 163,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 163",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 163,
+    "featured": false
+  },
+  {
+    "name": "Parul University 163",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 261,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 163",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 164,
+    "featured": false
+  },
+  {
+    "name": "IIT america 164",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 164,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 164",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 164,
+    "featured": false
+  },
+  {
+    "name": "Parul University 164",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 262,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 164",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 165,
+    "featured": false
+  },
+  {
+    "name": "IIT america 165",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 165,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 165",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 165,
+    "featured": false
+  },
+  {
+    "name": "Parul University 165",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 263,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 165",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 166,
+    "featured": false
+  },
+  {
+    "name": "IIT america 166",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 166,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 166",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 166,
+    "featured": false
+  },
+  {
+    "name": "Parul University 166",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 264,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 166",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 167,
+    "featured": false
+  },
+  {
+    "name": "IIT america 167",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 167,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 167",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 167,
+    "featured": false
+  },
+  {
+    "name": "Parul University 167",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 265,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 167",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 168,
+    "featured": false
+  },
+  {
+    "name": "IIT america 168",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 168,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 168",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 168,
+    "featured": false
+  },
+  {
+    "name": "Parul University 168",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 266,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 168",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 169,
+    "featured": false
+  },
+  {
+    "name": "IIT america 169",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 169,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 169",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 169,
+    "featured": false
+  },
+  {
+    "name": "Parul University 169",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 267,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 169",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 170,
+    "featured": false
+  },
+  {
+    "name": "IIT america 170",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 170,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 170",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 170,
+    "featured": false
+  },
+  {
+    "name": "Parul University 170",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 268,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 170",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 171,
+    "featured": false
+  },
+  {
+    "name": "IIT america 171",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 171,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 171",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 171,
+    "featured": false
+  },
+  {
+    "name": "Parul University 171",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 269,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 171",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 172,
+    "featured": false
+  },
+  {
+    "name": "IIT america 172",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 172,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 172",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 172,
+    "featured": false
+  },
+  {
+    "name": "Parul University 172",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 270,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 172",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 173,
+    "featured": false
+  },
+  {
+    "name": "IIT america 173",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 173,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 173",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 173,
+    "featured": false
+  },
+  {
+    "name": "Parul University 173",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 271,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 173",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 174,
+    "featured": false
+  },
+  {
+    "name": "IIT america 174",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 174,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 174",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 174,
+    "featured": false
+  },
+  {
+    "name": "Parul University 174",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 272,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 174",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 175,
+    "featured": false
+  },
+  {
+    "name": "IIT america 175",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 175,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 175",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 175,
+    "featured": false
+  },
+  {
+    "name": "Parul University 175",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 273,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 175",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 176,
+    "featured": false
+  },
+  {
+    "name": "IIT america 176",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 176,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 176",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 176,
+    "featured": false
+  },
+  {
+    "name": "Parul University 176",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 274,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 176",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 177,
+    "featured": false
+  },
+  {
+    "name": "IIT america 177",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 177,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 177",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 177,
+    "featured": false
+  },
+  {
+    "name": "Parul University 177",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 275,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 177",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 178,
+    "featured": false
+  },
+  {
+    "name": "IIT america 178",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 178,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 178",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 178,
+    "featured": false
+  },
+  {
+    "name": "Parul University 178",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 276,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 178",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 179,
+    "featured": false
+  },
+  {
+    "name": "IIT america 179",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 179,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 179",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 179,
+    "featured": false
+  },
+  {
+    "name": "Parul University 179",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 277,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 179",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 180,
+    "featured": false
+  },
+  {
+    "name": "IIT america 180",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 180,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 180",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 180,
+    "featured": false
+  },
+  {
+    "name": "Parul University 180",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 278,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 180",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 181,
+    "featured": false
+  },
+  {
+    "name": "IIT america 181",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 181,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 181",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 181,
+    "featured": false
+  },
+  {
+    "name": "Parul University 181",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 279,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 181",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 182,
+    "featured": false
+  },
+  {
+    "name": "IIT america 182",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 182,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 182",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 182,
+    "featured": false
+  },
+  {
+    "name": "Parul University 182",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 280,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 182",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 183,
+    "featured": false
+  },
+  {
+    "name": "IIT america 183",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 183,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 183",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 183,
+    "featured": false
+  },
+  {
+    "name": "Parul University 183",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 281,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 183",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 184,
+    "featured": false
+  },
+  {
+    "name": "IIT america 184",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 184,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 184",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 184,
+    "featured": false
+  },
+  {
+    "name": "Parul University 184",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 282,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 184",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 185,
+    "featured": false
+  },
+  {
+    "name": "IIT america 185",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 185,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 185",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 185,
+    "featured": false
+  },
+  {
+    "name": "Parul University 185",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 283,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 185",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 186,
+    "featured": false
+  },
+  {
+    "name": "IIT america 186",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 186,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 186",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 186,
+    "featured": false
+  },
+  {
+    "name": "Parul University 186",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 284,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 186",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 187,
+    "featured": false
+  },
+  {
+    "name": "IIT america 187",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 187,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 187",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 187,
+    "featured": false
+  },
+  {
+    "name": "Parul University 187",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 285,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 187",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 188,
+    "featured": false
+  },
+  {
+    "name": "IIT america 188",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 188,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 188",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 188,
+    "featured": false
+  },
+  {
+    "name": "Parul University 188",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 286,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 188",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 189,
+    "featured": false
+  },
+  {
+    "name": "IIT america 189",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 189,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 189",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 189,
+    "featured": false
+  },
+  {
+    "name": "Parul University 189",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 287,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 189",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 190,
+    "featured": false
+  },
+  {
+    "name": "IIT america 190",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 190,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 190",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 190,
+    "featured": false
+  },
+  {
+    "name": "Parul University 190",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 288,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 190",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 191,
+    "featured": false
+  },
+  {
+    "name": "IIT america 191",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 191,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 191",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 191,
+    "featured": false
+  },
+  {
+    "name": "Parul University 191",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 289,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 191",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 192,
+    "featured": false
+  },
+  {
+    "name": "IIT america 192",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 192,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 192",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 192,
+    "featured": false
+  },
+  {
+    "name": "Parul University 192",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 290,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 192",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 193,
+    "featured": false
+  },
+  {
+    "name": "IIT america 193",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 193,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 193",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 193,
+    "featured": false
+  },
+  {
+    "name": "Parul University 193",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 291,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 193",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 194,
+    "featured": false
+  },
+  {
+    "name": "IIT america 194",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 194,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 194",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 194,
+    "featured": false
+  },
+  {
+    "name": "Parul University 194",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 292,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 194",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 195,
+    "featured": false
+  },
+  {
+    "name": "IIT america 195",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 195,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 195",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 195,
+    "featured": false
+  },
+  {
+    "name": "Parul University 195",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 293,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 195",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 196,
+    "featured": false
+  },
+  {
+    "name": "IIT america 196",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 196,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 196",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 196,
+    "featured": false
+  },
+  {
+    "name": "Parul University 196",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 294,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 196",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 197,
+    "featured": false
+  },
+  {
+    "name": "IIT america 197",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 197,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 197",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 197,
+    "featured": false
+  },
+  {
+    "name": "Parul University 197",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 295,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 197",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 198,
+    "featured": false
+  },
+  {
+    "name": "IIT america 198",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 198,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 198",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 198,
+    "featured": false
+  },
+  {
+    "name": "Parul University 198",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 296,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 198",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 199,
+    "featured": false
+  },
+  {
+    "name": "IIT america 199",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 199,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 199",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 199,
+    "featured": false
+  },
+  {
+    "name": "Parul University 199",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 297,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 199",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 200,
+    "featured": false
+  },
+  {
+    "name": "IIT america 200",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 200,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 200",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 200,
+    "featured": false
+  },
+  {
+    "name": "Parul University 200",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 298,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 200",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 201,
+    "featured": false
+  },
+  {
+    "name": "IIT america 201",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 201,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 201",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 201,
+    "featured": false
+  },
+  {
+    "name": "Parul University 201",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 299,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 201",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 202,
+    "featured": false
+  },
+  {
+    "name": "IIT america 202",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 202,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 202",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 202,
+    "featured": false
+  },
+  {
+    "name": "Parul University 202",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 300,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 202",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 203,
+    "featured": false
+  },
+  {
+    "name": "IIT america 203",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 203,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 203",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 203,
+    "featured": false
+  },
+  {
+    "name": "Parul University 203",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 301,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 203",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 204,
+    "featured": false
+  },
+  {
+    "name": "IIT america 204",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 204,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 204",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 204,
+    "featured": false
+  },
+  {
+    "name": "Parul University 204",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 302,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 204",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 205,
+    "featured": false
+  },
+  {
+    "name": "IIT america 205",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 205,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 205",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 205,
+    "featured": false
+  },
+  {
+    "name": "Parul University 205",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 303,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 205",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 206,
+    "featured": false
+  },
+  {
+    "name": "IIT america 206",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 206,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 206",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 206,
+    "featured": false
+  },
+  {
+    "name": "Parul University 206",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 304,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 206",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 207,
+    "featured": false
+  },
+  {
+    "name": "IIT america 207",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 207,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 207",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 207,
+    "featured": false
+  },
+  {
+    "name": "Parul University 207",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 305,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 207",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 208,
+    "featured": false
+  },
+  {
+    "name": "IIT america 208",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 208,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 208",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 208,
+    "featured": false
+  },
+  {
+    "name": "Parul University 208",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 306,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 208",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 209,
+    "featured": false
+  },
+  {
+    "name": "IIT america 209",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 209,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 209",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 209,
+    "featured": false
+  },
+  {
+    "name": "Parul University 209",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 307,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 209",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 210,
+    "featured": false
+  },
+  {
+    "name": "IIT america 210",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 210,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 210",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 210,
+    "featured": false
+  },
+  {
+    "name": "Parul University 210",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 308,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 210",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 211,
+    "featured": false
+  },
+  {
+    "name": "IIT america 211",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 211,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 211",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 211,
+    "featured": false
+  },
+  {
+    "name": "Parul University 211",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 309,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 211",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 212,
+    "featured": false
+  },
+  {
+    "name": "IIT america 212",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 212,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 212",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 212,
+    "featured": false
+  },
+  {
+    "name": "Parul University 212",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 310,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 212",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 213,
+    "featured": false
+  },
+  {
+    "name": "IIT america 213",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 213,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 213",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 213,
+    "featured": false
+  },
+  {
+    "name": "Parul University 213",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 311,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 213",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 214,
+    "featured": false
+  },
+  {
+    "name": "IIT america 214",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 214,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 214",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 214,
+    "featured": false
+  },
+  {
+    "name": "Parul University 214",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 312,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 214",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 215,
+    "featured": false
+  },
+  {
+    "name": "IIT america 215",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 215,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 215",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 215,
+    "featured": false
+  },
+  {
+    "name": "Parul University 215",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 313,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 215",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 216,
+    "featured": false
+  },
+  {
+    "name": "IIT america 216",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 216,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 216",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 216,
+    "featured": false
+  },
+  {
+    "name": "Parul University 216",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 314,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 216",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 217,
+    "featured": false
+  },
+  {
+    "name": "IIT america 217",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 217,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 217",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 217,
+    "featured": false
+  },
+  {
+    "name": "Parul University 217",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 315,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 217",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 218,
+    "featured": false
+  },
+  {
+    "name": "IIT america 218",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 218,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 218",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 218,
+    "featured": false
+  },
+  {
+    "name": "Parul University 218",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 316,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 218",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 219,
+    "featured": false
+  },
+  {
+    "name": "IIT america 219",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 219,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 219",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 219,
+    "featured": false
+  },
+  {
+    "name": "Parul University 219",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 317,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 219",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 220,
+    "featured": false
+  },
+  {
+    "name": "IIT america 220",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 220,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 220",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 220,
+    "featured": false
+  },
+  {
+    "name": "Parul University 220",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 318,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 220",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 221,
+    "featured": false
+  },
+  {
+    "name": "IIT america 221",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 221,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 221",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 221,
+    "featured": false
+  },
+  {
+    "name": "Parul University 221",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 319,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 221",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 222,
+    "featured": false
+  },
+  {
+    "name": "IIT america 222",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 222,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 222",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 222,
+    "featured": false
+  },
+  {
+    "name": "Parul University 222",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 320,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 222",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 223,
+    "featured": false
+  },
+  {
+    "name": "IIT america 223",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 223,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 223",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 223,
+    "featured": false
+  },
+  {
+    "name": "Parul University 223",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 321,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 223",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 224,
+    "featured": false
+  },
+  {
+    "name": "IIT america 224",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 224,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 224",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 224,
+    "featured": false
+  },
+  {
+    "name": "Parul University 224",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 322,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 224",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 225,
+    "featured": false
+  },
+  {
+    "name": "IIT america 225",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 225,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 225",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 225,
+    "featured": false
+  },
+  {
+    "name": "Parul University 225",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 323,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 225",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 226,
+    "featured": false
+  },
+  {
+    "name": "IIT america 226",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 226,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 226",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 226,
+    "featured": false
+  },
+  {
+    "name": "Parul University 226",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 324,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 226",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 227,
+    "featured": false
+  },
+  {
+    "name": "IIT america 227",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 227,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 227",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 227,
+    "featured": false
+  },
+  {
+    "name": "Parul University 227",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 325,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 227",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 228,
+    "featured": false
+  },
+  {
+    "name": "IIT america 228",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 228,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 228",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 228,
+    "featured": false
+  },
+  {
+    "name": "Parul University 228",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 326,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 228",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 229,
+    "featured": false
+  },
+  {
+    "name": "IIT america 229",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 229,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 229",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 229,
+    "featured": false
+  },
+  {
+    "name": "Parul University 229",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 327,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 229",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 230,
+    "featured": false
+  },
+  {
+    "name": "IIT america 230",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 230,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 230",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 230,
+    "featured": false
+  },
+  {
+    "name": "Parul University 230",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 328,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 230",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 231,
+    "featured": false
+  },
+  {
+    "name": "IIT america 231",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 231,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 231",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 231,
+    "featured": false
+  },
+  {
+    "name": "Parul University 231",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 329,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 231",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 232,
+    "featured": false
+  },
+  {
+    "name": "IIT america 232",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 232,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 232",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 232,
+    "featured": false
+  },
+  {
+    "name": "Parul University 232",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 330,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 232",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 233,
+    "featured": false
+  },
+  {
+    "name": "IIT america 233",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 233,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 233",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 233,
+    "featured": false
+  },
+  {
+    "name": "Parul University 233",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 331,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 233",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 234,
+    "featured": false
+  },
+  {
+    "name": "IIT america 234",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 234,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 234",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 234,
+    "featured": false
+  },
+  {
+    "name": "Parul University 234",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 332,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 234",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 235,
+    "featured": false
+  },
+  {
+    "name": "IIT america 235",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 235,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 235",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 235,
+    "featured": false
+  },
+  {
+    "name": "Parul University 235",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 333,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 235",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 236,
+    "featured": false
+  },
+  {
+    "name": "IIT america 236",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 236,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 236",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 236,
+    "featured": false
+  },
+  {
+    "name": "Parul University 236",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 334,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 236",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 237,
+    "featured": false
+  },
+  {
+    "name": "IIT america 237",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 237,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 237",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 237,
+    "featured": false
+  },
+  {
+    "name": "Parul University 237",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 335,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 237",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 238,
+    "featured": false
+  },
+  {
+    "name": "IIT america 238",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 238,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 238",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 238,
+    "featured": false
+  },
+  {
+    "name": "Parul University 238",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 336,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 238",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 239,
+    "featured": false
+  },
+  {
+    "name": "IIT america 239",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 239,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 239",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 239,
+    "featured": false
+  },
+  {
+    "name": "Parul University 239",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 337,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 239",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 240,
+    "featured": false
+  },
+  {
+    "name": "IIT america 240",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 240,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 240",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 240,
+    "featured": false
+  },
+  {
+    "name": "Parul University 240",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 338,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 240",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 241,
+    "featured": false
+  },
+  {
+    "name": "IIT america 241",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 241,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 241",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 241,
+    "featured": false
+  },
+  {
+    "name": "Parul University 241",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 339,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 241",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 242,
+    "featured": false
+  },
+  {
+    "name": "IIT america 242",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 242,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 242",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 242,
+    "featured": false
+  },
+  {
+    "name": "Parul University 242",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 340,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 242",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 243,
+    "featured": false
+  },
+  {
+    "name": "IIT america 243",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 243,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 243",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 243,
+    "featured": false
+  },
+  {
+    "name": "Parul University 243",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 341,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 243",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 244,
+    "featured": false
+  },
+  {
+    "name": "IIT america 244",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 244,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 244",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 244,
+    "featured": false
+  },
+  {
+    "name": "Parul University 244",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 342,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 244",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 245,
+    "featured": false
+  },
+  {
+    "name": "IIT america 245",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 245,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 245",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 245,
+    "featured": false
+  },
+  {
+    "name": "Parul University 245",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 343,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 245",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 246,
+    "featured": false
+  },
+  {
+    "name": "IIT america 246",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 246,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 246",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 246,
+    "featured": false
+  },
+  {
+    "name": "Parul University 246",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 344,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 246",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 247,
+    "featured": false
+  },
+  {
+    "name": "IIT america 247",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 247,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 247",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 247,
+    "featured": false
+  },
+  {
+    "name": "Parul University 247",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 345,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 247",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 248,
+    "featured": false
+  },
+  {
+    "name": "IIT america 248",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 248,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 248",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 248,
+    "featured": false
+  },
+  {
+    "name": "Parul University 248",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 346,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 248",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 249,
+    "featured": false
+  },
+  {
+    "name": "IIT america 249",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 249,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 249",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 249,
+    "featured": false
+  },
+  {
+    "name": "Parul University 249",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 347,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 249",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 250,
+    "featured": false
+  },
+  {
+    "name": "IIT america 250",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 250,
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi 250",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 250,
+    "featured": false
+  },
+  {
+    "name": "Parul University 250",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 348,
+    "featured": true
+  },
+  {
+    "name": "IIT Bombay 250",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 251,
+    "featured": false
+  }
+]

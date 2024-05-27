@@ -1,0 +1,14 @@
+.search-sort {
+    margin-bottom: 20px;
+  }
+  
+  .search-sort input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .search-sort button {
+    margin-right: 10px;
+    padding: 5px 10px;
+  }
+  

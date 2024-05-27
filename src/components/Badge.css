@@ -1,0 +1,23 @@
+/* Badge.css */
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    background-color: #FFF3E0; /* Light yellow background */
+    color: #E57373; /* Red text color */
+    border-radius: 12px; /* Rounded corners */
+    padding: 5px 10px; /* Padding inside the badge */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 14px; /* Font size */
+    font-weight: bold; /* Bold text */
+    cursor: pointer; /* Pointer cursor */
+  }
+  
+  .badge-text {
+    margin-right: 5px; /* Space between text and arrow */
+  }
+  
+  .dropdown-arrow {
+    font-size: 12px; /* Smaller font size for the arrow */
+  }
+  

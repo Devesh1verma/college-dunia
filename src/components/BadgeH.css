@@ -1,0 +1,43 @@
+/* BadgeH.css */
+
+.badge-container {
+    display: inline-flex;
+    flex-direction: column;
+    background-color: #E1F5FE; /* Light blue background */
+    color: #007BFF; /* Blue text color */
+    border-radius: 12px; /* Rounded corners */
+    padding: 10px; /* Padding inside the badge */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 14px; /* Font size */
+    font-weight: bold; /* Bold text */
+  }
+  
+  .badge-header {
+    margin-bottom: 5px; /* Space between header and body */
+  }
+  
+  .badge-title {
+    font-size: 12px; /* Smaller font size for the title */
+    color: #000; /* Black text color for title */
+  }
+  
+  .badge-body {
+    display: flex;
+    align-items: center;
+  }
+  
+  .badge-icon {
+    width: 20px; /* Icon width */
+    height: 20px; /* Icon height */
+    margin-right: 5px; /* Space between icons */
+  }
+  
+  .badge-more {
+    margin-right: 5px; /* Space between "more" text and arrow */
+  }
+  
+  .dropdown-arrow {
+    font-size: 12px; /* Smaller font size for the arrow */
+  }
+
+  

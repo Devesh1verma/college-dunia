@@ -1,0 +1,94 @@
+.college-info {
+    display: flex;
+    flex-direction: column;
+    color: lightblue;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
+}
+
+.apply-now {
+    color: orange;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.download-brochure {
+    color: lightblue;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.compare-checkbox {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    color: black;
+}
+
+.compare-checkbox input {
+    margin-right: 5px;
+}
+
+.college-row:hover {
+    background-color: #ffe5b0; /* Light orange color */
+}
+
+.college-name {
+    color: lightblue;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.compare-action {
+    color: orange;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.compare-info {
+    color: orange;
+    margin-left: 10px;
+}
+
+.orange-circle {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    margin-right: 5px; /* Adjust spacing as needed */
+}
+
+.highlight-adjacent {
+    background-color: #ffe6f2; /* Very light pink color */
+}
+
+.college-name-logo {
+    display: flex;
+    align-items: center;
+}
+
+.college-logo {
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+    margin-right: 10px; /* Adjust spacing as needed */
+}

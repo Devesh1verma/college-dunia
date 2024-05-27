@@ -1,0 +1,25 @@
+.table-container {
+    overflow-x: auto;
+  }
+  
+  .college-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .college-table th, .college-table td {
+    border: 2px solid rgb(239, 235, 235);
+    padding: 8px;
+  }
+  
+  .college-table th {
+    background-color: #0eadad;
+    text-align: left;
+    color: white;
+    
+  }
+  
+  .featured {
+    background-color: #ffefc6;
+  }
+  
